@@ -13,9 +13,7 @@ if [[ $EUID -eq 0 ]]; then
 fi
 
 printf "\n%.0s" {1..3}  
-echo "                                   _   _ ___ __ "
-echo "   |  _.   |/  _   _  |  o _|_ __ | \ / \ | (_  "
-echo " \_| (_| o |\ (_) (_) |_ |  |_    |_/ \_/ | __) "
+
 printf "\n%.0s" {1..2} 
 
 # Set some colors for output messages
