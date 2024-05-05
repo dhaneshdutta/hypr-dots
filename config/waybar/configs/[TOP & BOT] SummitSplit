@@ -1,4 +1,4 @@
-/* ---- 💫 https://github.com/JaKooLit 💫 ---- */
+/* ---- 💫 https://github.com/dhaneshdutta 💫 ---- */
 
 // ### DUAL TOP and BOTTOM ### //
 
@@ -30,13 +30,13 @@
 	], 
 
 "modules-right": [
-	"custom/weather",	  
+    //"custom/weather",	  
 	"battery", 
 	"backlight",
-	"bluetooth",
-	"network",
+	//"bluetooth",
+	//"network",
 	//"custom/updater",
-	"custom/cycle_wall",
+	//"custom/cycle_wall",
 	"custom/lock", 
 	],
 },
@@ -70,10 +70,10 @@
 	"tray",
 	"custom/swaync",
 	"mpris",
-	"keyboard-state",
-	"pulseaudio",
+	//"keyboard-state",
+	//"pulseaudio",
 	//"wireplumber", 
-	"pulseaudio#microphone",	  
+	//"pulseaudio#microphone",	  
 	"custom/power",
 	],
 
