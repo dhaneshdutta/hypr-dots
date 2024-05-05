@@ -1,13 +1,12 @@
 ### 💥 Copying / Installation / Update instructions 💥
-- [`MORE INFO HERE`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Install_&_Update) 
 > [!Note] 
 > The auto copy script will create backups of intended folders to be copied. However, still a good idea to manually backup just incase script failed to backup!
 - ~/.config (btop cava hypr kitty rofi swappy swaync waybar wlogout) - These are folders to be copied.
 - ~/Pictures/wallpapers - Will be backed up
 - clone this repo by using git. Change directory, make executable and run the script
 ```bash
-git clone --depth=1 https://github.com/JaKooLit/Hyprland-Dots.git
-cd Hyprland-Dots
+git clone --depth=1 https://github.com/dhaneshdutta/hypr-dots.git
+cd hypr-dots
 ```
 - to copy/install from upstream (possible bugs)
 ```bash
@@ -44,9 +43,4 @@ chmod +x upgrade.sh
 > WLR_NO_CURSORS,1 , LIBVA_DRIVER_NAME,nvidia ,  __GLX_VENDOR_LIBRARY_NAME,nvidia 
 - NVIDIA users / owners, after installation, check [`THIS`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Notes_to_remember#--for-nvidia-gpu-users)
 
-+ If you have already set your own keybinds, monitors, etc.... Just copy over from backup created before log-out or reboot. (recommended)
-                        
-## 🥰🥰 💖💖 👍👍👍
-[![Stargazers over time](https://starchart.cc/JaKooLit/Hyprland-Dots.svg?variant=adaptive)](https://starchart.cc/JaKooLit/Hyprland-Dots)
-
-                    
++ If you have already set your own keybinds, monitors, etc.... Just copy over from backup created before log-out or reboot. (recommended)        
